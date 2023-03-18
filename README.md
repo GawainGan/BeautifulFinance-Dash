@@ -2,10 +2,16 @@
 
 Link to our dashboard: https://milstone4.herokuapp.com
 
-![sketch](sketch.jpeg)
-
-
 Welcome to our stock market dashboard! This dashboard provides a variety of visualizations to help users explore and understand stock market trends and performance.
+
+**Tab 1 - Stock market compare trend plot**
+![tab1](tab1.png)
+
+**Tab 2 - SP500 sectors growth rate rank**
+![tab2](tab2.png)
+
+**Tab 3 - Top 5 companies in SP500 GICS sectors**
+![tab3](tab3.png)
 
 ## Motivation
 
