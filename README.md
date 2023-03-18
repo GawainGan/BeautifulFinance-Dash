@@ -23,19 +23,21 @@ The latest updates to the dashboard include:
 
 ## Usage
 
-The two primary components of our dashboard are a sidebar on the left and four graphs on the right. In addition to time selectors for deciding what time period should be shown on the graphs, the sidebar provides general information about the stock market.
+The primary components of our dashboard are a sidebar on the left and 3 tabs on the right. In addition to time selectors for deciding what time period should be shown on the graphs, the sidebar provides general information about other stock markets in the world.
 
 1. Tab 1:
-    - The trend plot in the top left corner shows the moving average of the stock market prices over time.
-    - Users can compare various stock markets using a checklist option, allowing for the generation of multiple moving average trends simultaneously.
+    - The trend plot shows the trend of the stock market prices over time.
+    - Users can compare various stock markets using a dropdown menu option, 
+    - Users can also choose moving average period via a checklist option, allowing for the generation of multiple moving average trends simultaneously.
 
 2. Tab 2:
-    - The growth and decline rates of each GICS sector of the SP500 are displayed in the bar chart in the top right corner, with an updated calculation method.
-    - The bar chart now includes hovertext, displaying the top 5 companies with the highest growth rates in each sector when hovered over.
+    - The growth and decline rates of each GICS sector of the SP500 are displayed in the bar chart in tab 2, with an updated calculation method.
+    - The bar chart now includes hover text, displaying GICS sector name, the growth rate, and the top 5 companies when hovered over.
 
 3. Tab 3:
-    - The two plots allow users to examine the top 5 companies in a particular sector by selecting it from the dropdown list at the bottom. 
-    - Users can select which companies to display using the checkbox selector on the trend plot on the left, which displays the price change for the selected companies. The percentage of volume for the chosen companies is displayed in the pie chart on the right.
+    - The two plots allow users to examine the top 5 companies in a particular sector by selecting it from the dropdown list. 
+    - Users can select which companies to display using the checklist selector, which displays the price change for the selected companies. 
+    - The percentage of volume for the chosen companies is displayed in the pie chart on the right.
 
 
 ## Contributing
