@@ -33,7 +33,7 @@ The primary components of our dashboard are a sidebar on the left and 3 tabs on 
 
 1. Tab 1:
     - The trend plot shows the trend of the stock market prices over time.
-    - Users can compare various stock markets using a dropdown menu option, 
+    - Users can compare various stock markets using a dropdown menu option. 
     - Users can also choose moving average period via a checklist option, allowing for the generation of multiple moving average trends simultaneously.
 
 2. Tab 2:
