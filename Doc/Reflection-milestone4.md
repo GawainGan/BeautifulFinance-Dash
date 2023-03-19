@@ -6,7 +6,7 @@ So far, all four main plots have been completed using daily data.
 - Plot 3. Line plot: Close price of the top 5 companies in each sector
 - Plot 4. Pie chart: Volume of the top 5 companies in each sector
 
-### what we have implemented
+### What we have implemented
 Plot 1(line), Our dashboard provides users with the flexibility to compare not only the S&P500 with other global indices, but also different sectors within the S&P500 with either the S&P500 or other global indices. Users can select from a range of options in the dropdown menu, including "S&P original", "S&P energy", "S&P industry", "S&P consumer", "FTSE 100", "Euro Stoxx 50", "Hang Seng" and "Nikkei 225". This allows users to analyze the performance of different sectors and indices and identify trends or patterns that may not be immediately apparent.
 The legend in our dashboard provides users with the option to toggle between displaying one line or two lines on the graph. Additionally, when the user hovers their mouse over a specific point on the line graph, a tooltip appears showing the corresponding data and numerical value for that point. This allows for more detailed and precise analysis of the data.
 
@@ -14,7 +14,7 @@ Plot 2(bar chart), calculates the growth rate based on a selected time period th
 
 Plot 3(line) and Plot 4(pie chart) offer users the option to select a sector from a dropdown menu that includes 10 options: "Health care", "Information technology", "Utilities", "Energy", "Industries", "Consumer Discretionary", "Real estate","Consumer staples","Materials", and "Communication service". Once a sector is chosen, Plot 3 will display a line chart showcasing the top 5 companies in terms of growth rate for that sector, while Plot 4 will display a pie chart illustrating the volume proportion of those top 5 companies.
 
-### what is not yet implemented
+### What is not yet implemented
 Minute data was not included at a later stage due to the substantial size of the dataset,and downloading and processing can be time-consuming and inconvenient for users when launching the app.Furthermore, users tend to be more interested in daily or monthly durations rather than minute-by-minute data.
 
 ### Reflection on suggestion from TA
