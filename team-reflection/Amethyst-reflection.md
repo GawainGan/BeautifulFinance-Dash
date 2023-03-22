@@ -61,7 +61,7 @@
 <br>**I** am in charge of writing python and R code to build the HTML framework of the dash in both milestone 2 and milestone 3. Also, debug and test the function of our dashboard after other team members finish coding.
     - What were the roles of others in your group?
 <br>**Gawain Gan** assigned works for each group member, tracked the progress, and held weekly meetings. He wrote the content of the first tab in our dashboard. And we deployed our dashboard to Heroku together after finishing the tests of functions.
-<br>**Lili Tang** build the workflow of our dash. She contributed greatly to the design of the dashboard from a professional perspective by giving suggestions to make our dashboard useful and helpful. She wrote the content of the second tab.
-<br>**Zhijia** Ju was in charge of writing the content of the third tab (which contains 2 plots while other tabs contain only 1 plot) and code debugging. He also provided summary documentations.
+<br>**Lili Tang** built the workflow of our dash. She contributed greatly to the design of the dashboard from a professional perspective by giving suggestions to make our dashboard useful and helpful. She wrote the content of the second tab.
+<br>**Zhijia Ju** was in charge of writing the content of the third tab (which contains 2 plots while other tabs contain only 1 plot) and code debugging. He also provided summary documentations.
 - What went well and poorly throughout the team project experience?
 Overall, the experience was wonderful! we collaborated so well and together generated a excellent outcome.
