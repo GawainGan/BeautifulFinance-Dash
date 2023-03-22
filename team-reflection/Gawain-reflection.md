@@ -66,7 +66,7 @@ Point form is fine.
 Specifically,
 comment on the following areas:
 - I took the responability to construct the framwork of the project and assign the work to each member. I managed the meeting and evulated the balance of team member's ability and the workload. I mainly focused on the first tab and the final adjustment of the Dash in millstone 4. I also deployed the dash app with amethyst He together.
-- Amethyst He took the responsibility to build the framwork of the dash using python and R, also worked very hard on the debugging. Amythest He put lots of effort to both millstone 2 and millstone 3. Amythest He mainly focused on the construction of the code for both R and python, he is very reliable.
+- Amethyst He took the responsibility to build the framwork of the dash using python and R, also worked very hard on the debugging. Amythest He put lots of effort to both millstone 2 and millstone 3. Amythest He mainly focused on the construction of the code for both R and python, she is very reliable.
 - Zhijia Ju took the responsibility to build the first part of tab3 in millstone 2 and reconstructed the code in R in millstone 3. Zhijia Ju put lots of effort to work with debugging and communicate efficiently with each member.
 - Lili Tang took the responsibility to build the workflow of the dash. Lili Tang provided a clearer and more explicit meaning is given to the process of using this dash. She helps us to understand more deeply how the code should be built from a user's point of view (from tab 1 to tab 3).
 - I am very glad that I can work with Amethyst He, Zhijia Ju, and Lili Tang in this project. The final result is satisfying and I believe we are all the best!
